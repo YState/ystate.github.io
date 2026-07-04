@@ -1,0 +1,1 @@
+var a,r=r=>{a=r},s=()=>a;export{r as n,s as t};
